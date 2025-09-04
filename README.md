@@ -7,5 +7,5 @@
 使用方法：
 
 ```
-curl -O https://raw.githubusercontent.com/cookielb/nfcheck/refs/heads/main/nf.sh && chmod +x nf.sh && ./nf.sh
+curl -O https://raw.githubusercontent.com/cookielb/nfcheck/main/nf.sh && chmod +x nf.sh && ./nf.sh
 ```
